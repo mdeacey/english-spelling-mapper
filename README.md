@@ -11,8 +11,8 @@ This spelling list is originally sourced from the [UKGrammar definitive UK vs US
 - Two JSON mapping files:
   - British to American spelling
   - American to British spelling
-- 513 mapped words between British and American English for comprehensive coverage.
-- Ready-to-use for applications that require consistent English spelling, especially useful when working with AI API outputs that need localization.
+- 513 of the most popular mapped words between British and American English for comprehensive coverage.
+- Ideal for applications that need consistent English spelling without requiring a full-blown library like word2word.
 
 ## Use Case
 
