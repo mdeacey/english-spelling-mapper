@@ -9,9 +9,9 @@ This spelling list is originally sourced from the [UKGrammar definitive UK vs US
 ## Features
 
 - Two JSON mapping files:
-  - **British to American spelling**
-  - **American to British spelling**
-  - **513 mapped words** between British and American English for comprehensive coverage.
+  - British to American spelling
+  - American to British spelling
+- 513 mapped words between British and American English for comprehensive coverage.
 - Ready-to-use for applications that require consistent English spelling, especially useful when working with AI API outputs that need localization.
 
 ## Use Case
